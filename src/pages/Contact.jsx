@@ -8,7 +8,7 @@ export const Contact = () => {
   return (
     <footer className="py-8" id="contact">
       <h2 className="text-5xl font-bold mb-8">
-        Contact <span className="text-emerald-300">Me</span>
+        Get in <span className="text-emerald-300">touch</span>
       </h2>
 
       <div className="relative mt-12 container flex sm:justify-between justify-center items-center gap-10 max-sm:flex-col">

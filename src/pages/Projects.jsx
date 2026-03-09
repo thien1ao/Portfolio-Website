@@ -8,7 +8,7 @@ import { HiOutlineExternalLink } from "react-icons/hi";
 const projects = [
   {
     title: "Portfolio website",
-    desc: "This website was developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its overall design was inspired by the work of Devczero on GitHub",
+    desc: "This website was developed using React.js and Tailwind CSS. Its overall design was inspired by the work of Devczero on GitHub.",
     link: "http://localhost:5173/",
     git: "#",
     src: proj1,
