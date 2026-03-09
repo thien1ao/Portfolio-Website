@@ -2,6 +2,7 @@ import { Hero } from "./pages/Hero.jsx";
 import { About } from "./pages/About.jsx";
 import { Projects } from "./pages/Projects.jsx";
 import { Navbar } from "./components/Navbar.jsx";
+import { Contact } from "./pages/Contact.jsx";
 
 export default function App() {
   return (
@@ -13,6 +14,7 @@ export default function App() {
     <Hero />
     <About />
     <Projects />
+    <Contact />
     </>
   );
 }
