@@ -1,1 +1,1 @@
-https://www.mikhailsafonov.info
+http://www.mikhailsafonov.info/
